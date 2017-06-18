@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="WebWork"
+  id="myeclipse.1466678513526"
+  context-root="/WebWork"
+  j2ee-spec="5.0"
+  archive="WebWork.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
